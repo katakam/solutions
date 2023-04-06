@@ -8,7 +8,7 @@ Solutions from these languages will be linked from [NeetCode.io](https://neetcod
 * C++ (complete)
 * Java (complete)
 * Javascript
-
+* Rust
 Solutions are also welcome for any other *supported* language on leetcode.com!
 
 ## Contributing
