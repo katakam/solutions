@@ -9,6 +9,7 @@ Solutions from these languages will be linked from [NeetCode.io](https://neetcod
 * Java (complete)
 * Javascript
 * Rust
+* Lua
 
 Solutions are also welcome for any other *supported* language on leetcode.com!
 
